@@ -14,8 +14,8 @@ After cloning the starter code to my computer and into my repository, I made sur
 
 By comparing this to the starter code, we can learn a lot about efficient and neat coding that makes it easier to keep track of our work.
 
-![top-of-the-page](assets/images/Horiseon SC 1.png)
-![middle-of-the-page](assets/images/Horiseon SC 2.png)
+![Top of the page](<assets-images/Horiseon SC 1.png>)
+![Middle of the page](<assets-images/Horiseon SC 2.png>)
 
 ## Credits
 
